@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536102237 source:/home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase5/main.c
+	<stdio.h>
+	<stdlib.h>
+

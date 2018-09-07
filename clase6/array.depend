@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1536276009 source:/home/alumno/Documentos/array/array.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1536276205 /home/alumno/Documentos/array/array.h
+
+1536276009 source:/home/alumno/Documentos/array/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536276009 /home/alumno/Documentos/array/utn.h
+
+1536276611 source:/home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase6/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536276611 /home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase6/utn.h
+
+1536281007 source:/home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase6/array.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1536280669 /home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase6/array.h
+
+1536280668 source:/home/alumno/Descargas/cruzElias/laboratorio-1---2018/clase6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"array.h"
+
